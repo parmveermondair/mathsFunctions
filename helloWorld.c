@@ -1,6 +1,6 @@
-#include<stdio.h> 
-main()
-{    
+#include<stdio.h>  
+main() 
+{     
    printf("Hello World\n");
+   printf(“Hello you kunjar\n”);
 }
- 
